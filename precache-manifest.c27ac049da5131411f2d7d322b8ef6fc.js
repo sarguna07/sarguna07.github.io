@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00874a7a815e01743d528543e667d980",
+    "revision": "9c25d25b58922e5f8a67631dea7dc3cb",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "beae6a4c8484f8fef977",
+    "revision": "54b84f2860a71f0b891d",
     "url": "/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.07feb0a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "beae6a4c8484f8fef977",
-    "url": "/static/js/main.17ae9bdc.chunk.js"
+    "revision": "54b84f2860a71f0b891d",
+    "url": "/static/js/main.2c5af114.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
-    "revision": "537230594729e6cc0a2f402cf2259d3b",
-    "url": "/static/media/SargunaResume.53723059.pdf"
+    "revision": "c0e905e674829ce78edea5b54b0b3db2",
+    "url": "/static/media/SargunaResume.c0e905e6.pdf"
   },
   {
     "revision": "7a4749945a53787d4b0b252593200fe2",
